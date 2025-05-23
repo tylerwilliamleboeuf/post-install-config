@@ -125,9 +125,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <!-- Step 6 -->
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="User Access Settings"/>
-</p>
-<p>
   <strong>✅ Step 6: Adjust User Access Settings</strong><br />
   By default, osTicket may allow unregistered users to create tickets. To require registration:
   <ul>
@@ -136,6 +133,27 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li><strong>Enable:</strong> “Registration Required” - Users must create an account and log in to submit tickets.</li>
   </ul>
   This ensures better tracking and communication with users.
+</p>
+<p>
+  <img src="https://i.imgur.com/N0Y1JfA.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/Th8P84O.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/OQ1cO96.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/nhLt2cn.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/LvuzM6A.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/Lg7lcdp.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/S2bFpAR.png"/>
 </p>
 <br />
 
