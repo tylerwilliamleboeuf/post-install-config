@@ -86,9 +86,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <!-- Step 4 -->
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Configure Departments"/>
-</p>
-<p>
   <strong>✅ Step 4: Configure Departments</strong><br />
   Departments control ticket visibility and help you organize your support structure.<br />
   Navigate to <strong>Admin Panel → Agents → Departments</strong> to create them.
@@ -100,12 +97,15 @@ This tutorial outlines the post-install configuration of the open-source help de
   </ul>
   Each department can have its own ticket assignments and response workflows.
 </p>
+<p>
+  <img src="https://i.imgur.com/DjAovqv.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/W0f127I.png"/>
+</p>
 <br />
 
 <!-- Step 5 -->
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Configure Teams"/>
-</p>
 <p>
   <strong>✅ Step 5: Configure Teams</strong><br />
   Teams allow you to group agents from different departments to work collaboratively.<br />
@@ -114,6 +114,12 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li><strong>Example Team:</strong> <code>Online Banking</code> - Includes agents from both Support and SysAdmins.</li>
     <li>Teams can be assigned tickets and improve coordination on cross-functional tasks.</li>
   </ul>
+</p>
+<p>
+  <img src="https://i.imgur.com/9mTVaiQ.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/Zzluis6.png"/>
 </p>
 <br />
 
