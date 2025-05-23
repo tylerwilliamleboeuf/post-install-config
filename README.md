@@ -27,9 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <!-- Step 1 -->
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Interface URLs"/>
-</p>
+
 <p>
   <strong>✅ Step 1: Access osTicket Interfaces</strong><br />
   After installation, you will have access to two key interfaces:
@@ -47,9 +45,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <!-- Step 2 -->
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Agent vs Admin Panel"/>
-</p>
+
 <p>
   <strong>✅ Step 2: Understand the Agent Panel vs Admin Panel</strong><br />
   osTicket separates functionality based on role:
@@ -58,12 +54,15 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li><strong>Admin Panel:</strong> For system configuration and settings. Accessible only to administrators.</li>
   </ul>
 </p>
+    <p>
+  <img src="https://i.imgur.com/sZJhpmk.png" height="80%" width="80%" alt="osTicket Interface URLs"/>
+</p>
+    <p>
+  <img src="https://i.imgur.com/vge6pgB.png"/>
+</p>
 <br />
 
 <!-- Step 3 -->
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Configure Roles"/>
-</p>
 <p>
   <strong>✅ Step 3: Configure Roles</strong><br />
   Navigate to <strong>Admin Panel → Agents → Roles</strong> to define what agents are allowed to do.<br />
@@ -72,6 +71,15 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>Roles help you control access and assign responsibilities efficiently.</li>
   </li>
   </ul>
+</p>
+<p>
+  <img src="https://i.imgur.com/OUltzxU.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/GeaIClR.png"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/vf1SvM8.png"/>
 </p>
 <br />
 
