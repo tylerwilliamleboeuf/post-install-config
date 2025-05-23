@@ -70,6 +70,61 @@ This tutorial outlines the post-install configuration of the open-source help de
   <ul>
     <li><strong>Example Role:</strong> <code>Supreme Admin</code> - full access to all admin settings.</li>
     <li>Roles help you control access and assign responsibilities efficiently.</li>
+  </li>
+  </ul>
+</p>
+<br />
+
+
+<!-- Step 4 -->
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Configure Departments"/>
+</p>
+<p>
+  <strong>✅ Step 4: Configure Departments</strong><br />
+  Departments control ticket visibility and help you organize your support structure.<br />
+  Navigate to <strong>Admin Panel → Agents → Departments</strong> to create them.
+  <ul>
+    <li><strong>Example Departments:</strong></li>
+    <li><code>SysAdmins</code> - Handles system-related issues</li>
+    <li><code>Support</code> - General help desk staff</li>
+    <li><code>Networking</code> - Network-specific support</li>
+  </ul>
+  Each department can have its own ticket assignments and response workflows.
+</p>
+<br />
+
+<!-- Step 5 -->
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Configure Teams"/>
+</p>
+<p>
+  <strong>✅ Step 5: Configure Teams</strong><br />
+  Teams allow you to group agents from different departments to work collaboratively.<br />
+  Navigate to <strong>Admin Panel → Agents → Teams</strong>.
+  <ul>
+    <li><strong>Example Team:</strong> <code>Online Banking</code> - Includes agents from both Support and SysAdmins.</li>
+    <li>Teams can be assigned tickets and improve coordination on cross-functional tasks.</li>
+  </ul>
+</p>
+<br />
+
+<!-- Step 6 -->
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="User Access Settings"/>
+</p>
+<p>
+  <strong>✅ Step 6: Adjust User Access Settings</strong><br />
+  By default, osTicket may allow unregistered users to create tickets. To require registration:
+  <ul>
+    <li>Go to <strong>Admin Panel → Settings → User Settings</strong></li>
+    <li><strong>Uncheck:</strong> “Allow anyone to create tickets”</li>
+    <li><strong>Enable:</strong> “Registration Required” - Users must create an account and log in to submit tickets.</li>
+  </ul>
+  This ensures better tracking and communication with users.
+</p>
+<br />
+
   </ul>
 </p>
 <br />
